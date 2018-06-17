@@ -1,0 +1,15 @@
+Python for Finance
+The previous section describes some selected aspects characterizing the role of tech‐
+nology in finance:
+• Costs for technology in the finance industry
+• Technology as an enabler for new business and innovation
+• Technology and talent as barriers to entry in the finance industry
+• Increasing speeds, frequencies, and data volumes
+• The rise of real-time analytics
+In this section, we want to analyze how Python can help in addressing several of the
+challenges implied by these aspects. But first, on a more fundamental level, let us ex‐
+amine Python for finance from a language and syntax standpoint.
+
+
+
+35/605
